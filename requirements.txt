@@ -1,0 +1,17 @@
+# Core Visualization Libraries
+vtk>=9.2.0
+numpy>=1.23.0
+
+# Web Framework
+trame>=3.0.0
+trame-vuetify>=2.3.0
+trame-vtk>=2.6.0
+
+# Machine Learning for Clustering
+scikit-learn>=1.3.0
+
+# Histogram Visualization
+matplotlib>=3.7.0
+
+# Optional but recommended
+Pillow>=10.0.0
