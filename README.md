@@ -305,23 +305,4 @@ Potential improvements for future versions:
 - [ ] Collaborative viewing mode
 - [ ] Advanced lighting models
 
-## License
-
-This project is created for educational purposes as part of COSC 6344 coursework.
-
-## Author
-
-**Mengmei He**  
-University of Houston  
-Fall 2025
-
-## Acknowledgments
-
-- Professor and teaching staff of COSC 6344
-- DigiMorph for providing the dataset
-- VTK and Trame communities
-- Kitware for visualization tools
-
----
-
 **Last Updated**: December 1, 2025
